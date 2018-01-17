@@ -1,0 +1,5 @@
+.idea/**
+**/node_modules/**
+public/bundle/js.js
+*.log
+public/bundle/vendor.js
